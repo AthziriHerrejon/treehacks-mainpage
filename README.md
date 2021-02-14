@@ -1,5 +1,4 @@
-# treehacks-mainpage
-First Page App #SuperConnecter
+First Page App #SuperConnecter // Treehacks - Stanford
 
 Superconnecter.link has two components: a mobile app which uses a QR code to contain identifying information, and a website which appears when the QR code is scanned and allows the QR code scanner to swap information.
 
